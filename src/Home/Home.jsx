@@ -21,7 +21,7 @@ export default function Home() {
             <div className="mb-[850px] sm:mb-36">
                 <Address></Address>
             </div>
-            <div className="mb-[700px] sm:mb-10">
+            <div className="mb-[800px] sm:mb-10">
                 <ChooseUs></ChooseUs>
             </div>
             <div >
