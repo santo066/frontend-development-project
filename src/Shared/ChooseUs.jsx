@@ -55,7 +55,7 @@ export default function ChooseUs() {
                 {/* image */}
                 <div className="sm:w-[500px] w-[290px] h-[300px] relative sm:h-[525px] border-solid border-2 rounded-t-[50%] rounded-b-3xl">
                     <div className="sm:w-[464px] absolute w-[250px] h-[300px] left-4  sm:h-[528px]">
-                        <img src={bin} alt="" />
+                        <img src={bin} alt="" className="rounded-2xl" />
                     </div>
                 </div>
             </div>
