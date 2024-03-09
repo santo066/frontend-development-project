@@ -1,0 +1,47 @@
+@font-face {
+    font-family: bakilda;
+    src: url(../public/Fonts/Bakilda/bakilda-histori.ttf);
+}
+@font-face {
+    font-family: Sans;
+    src: url(../public/Fonts/Value\ Sans\ Pro/ValueSansPro-Regular.ttf);
+}
+
+@font-face {
+    font-family: abril;
+    src: url(../public/Fonts/Abril/Abril_Display_Bold.otf);
+}
+@font-face {
+    font-family: abrill;
+    src: url(../public/Fonts/Abril/Abril_Display_Regular.otf);
+}
+
+.bakilda{
+    font-family: bakilda;
+}
+.sans{
+    font-family: Sans;
+}
+.abrill{
+    font-family: abrill;
+}
+.abril{
+    font-family: abril;
+}
+@media (max-width: 1000px) {
+    .small{
+        display: none;
+    }
+}
+@media (max-width: 780px) {
+    .smm{
+        margin-bottom: 900px;
+    }
+}
+
+.bg_img{
+    background-image: url(assets/images/bgimg.jpeg);
+}
+.color{
+    color: white;
+}
